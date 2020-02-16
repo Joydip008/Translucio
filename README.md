@@ -1,0 +1,2 @@
+# Translucio
+translucio Project manages Online translate data. It is an application where user can upload any file and get translated files and also website data into multiple languages. User can also check with his/her dashboard that file individual content with translated data language wise. Here user can edit his/her own translated data and generate file for download. Here have many options for user easy to access.
